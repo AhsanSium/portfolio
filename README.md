@@ -1,2 +1,3 @@
 # portfolio
-My Github Portfolio Repository
+# My Github Portfolio Repository
+# I am learning GIT
